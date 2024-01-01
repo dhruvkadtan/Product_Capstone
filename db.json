@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "9152072d-2dfe-4395-a603-2528362bf604",
+      "date": "15/2/2023, 11:13:43 am",
+      "productName": "V25",
+      "productDes": "A handy 8GB ram and 256GB Internal storage mobile",
+      "manufacturer": "Vivo",
+      "quantity": "10",
+      "price": "32999",
+      "vendor": "Divakar",
+      "distributor": "Gajanan Ele",
+      "count": 11
+    },
+    {
+      "id": "9152072d-2dfe-4395-a603-2528362bf60e",
+      "date": "15/2/2023, 11:13:43 am",
+      "productName": "11 5G",
+      "productDes": "8GB Ram and 128GB Rom",
+      "manufacturer": "Oneplus",
+      "quantity": 4,
+      "price": "51999",
+      "vendor": "Dhruv",
+      "distributor": "Gajanan Ele",
+      "count": 13
+    }
+  ]
+}

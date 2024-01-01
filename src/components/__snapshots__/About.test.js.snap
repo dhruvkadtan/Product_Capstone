@@ -1,0 +1,129 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App render correctly 1`] = `
+<div
+  className="carousel slide"
+  data-ride="carousel"
+  id="carouselExampleCaptions"
+>
+  <div
+    className="carousel-indicators"
+  >
+    <button
+      aria-current="true"
+      aria-label="Slide 1"
+      className="active"
+      data-bs-slide-to="0"
+      data-bs-target="#carouselExampleCaptions"
+      type="button"
+    />
+    <button
+      aria-label="Slide 2"
+      data-bs-slide-to="1"
+      data-bs-target="#carouselExampleCaptions"
+      type="button"
+    />
+    <button
+      aria-label="Slide 3"
+      data-bs-slide-to="2"
+      data-bs-target="#carouselExampleCaptions"
+      type="button"
+    />
+    <button
+      aria-label="Slide 4"
+      data-bs-slide-to="3"
+      data-bs-target="#carouselExampleCaptions"
+      type="button"
+    />
+  </div>
+  <div
+    className="carousel-inner"
+  >
+    <div
+      className="carousel-item active "
+    >
+      <img
+        alt="..."
+        className="d-block  w-100"
+        src="carousel1.jpg"
+        style={
+          Object {
+            "filter": " blur(1px)",
+          }
+        }
+      />
+      <div
+        className="carousel-caption d-none d-md-block "
+      >
+        <h3
+          className="text-white fw-bold"
+        >
+          Welcome to D-Systems
+        </h3>
+        <h4
+          className="text-white fw-bold"
+        >
+          Accounting and Inventory Software
+        </h4>
+        <h5>
+          We provide a managing platform for businesses
+        </h5>
+        <h5>
+             Here, we can account the stock products
+        </h5>
+        <h5>
+              and also maintain daily transactions.
+        </h5>
+      </div>
+    </div>
+    <div
+      className="carousel-item"
+    >
+      <img
+        alt="..."
+        className="d-block w-100"
+        src="products.jpg"
+      />
+      <div
+        className="carousel-caption d-none d-md-block"
+      >
+        <h5>
+          Product Details Can be viewed without Sign in
+        </h5>
+      </div>
+    </div>
+    <div
+      className="carousel-item"
+    >
+      <img
+        alt="..."
+        className="d-block w-100"
+        src="signin.jpg"
+      />
+      <div
+        className="carousel-caption d-none d-md-block"
+      >
+        <h5>
+          To add, edit, delete Please SignIn first
+        </h5>
+      </div>
+    </div>
+    <div
+      className="carousel-item"
+    >
+      <img
+        alt="..."
+        className="d-block w-100"
+        src="analysis.jpg"
+      />
+      <div
+        className="carousel-caption d-none d-md-block"
+      >
+        <h5>
+          Products views and price analysis can be done through analysis
+        </h5>
+      </div>
+    </div>
+  </div>
+</div>
+`;

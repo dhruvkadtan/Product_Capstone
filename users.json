@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": "3601c881-950b-488f-b2db-47dec20e1e03",
+      "password": "Dhruv@123",
+      "email": "dkadtans@gmail.com",
+      "first": "Dhruv",
+      "last": "Kadtan",
+      "location": "Pune",
+      "mobile": "9028567336"
+    },
+    {
+      "id": "f6fdd412-577e-4280-94a4-4765f6bacc6c",
+      "email": "dhruv.kadtan1@wipro.com",
+      "password": "Dhruv@123",
+      "first": "Dhruv",
+      "last": "Kadtan",
+      "location": "Jalgain",
+      "mobile": "9028567336"
+    },
+    {
+      "id": "9395b6bb-b25e-4e34-8447-fc720d1440b0",
+      "email": "abc@abc.com",
+      "password": "Dhruv@123",
+      "first": "abc",
+      "last": "abc",
+      "location": "Bhadgaon",
+      "mobile": "8888888888"
+    }
+  ]
+}

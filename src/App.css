@@ -1,18 +1,47 @@
-.App {
-  text-align: center;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
+.App {
+  text-align:left;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.back {
+  background-color:darkgray;
 }
 
+.OverFlow {
+  overflow: hidden;
+}
+
+.center {
+  align-items: center;
+  justify-content: center;
+}
+
+
+/* carousel 
+.carousel_header {
+  color: var(--dark);
+  transition: 0.5s;
+}
+.carousel_detail {
+  color: var(--light);
+  font-family: "Playfair Display", serif;
+  font-weight: 500;
+  
+}
+.carousel_btn {
+  background-color: var(--primary);
+  color: #fff;
+}
+
+Carousel end */
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -26,6 +55,12 @@
 
 .App-link {
   color: #61dafb;
+}
+
+/*headings */
+.h3 {
+  text-align: center;
+
 }
 
 @keyframes App-logo-spin {

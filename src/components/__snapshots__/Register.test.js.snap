@@ -1,0 +1,166 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`checking render render correctly 1`] = `
+<div
+  className="container-xxl"
+>
+  <div
+    className="container"
+  >
+    <div
+      className="text-center mx-auto mb-5 mt-3"
+    >
+      <h3
+        className="text-secondary"
+      >
+        Register
+      </h3>
+    </div>
+    <div
+      className="row justify-content-center"
+    >
+      <div
+        className="col-lg-8 "
+      >
+        <form
+          action="#"
+          onReset={[Function]}
+          onSubmit={[Function]}
+        >
+          <div
+            className="row"
+          >
+            <div
+              className="col-12 mb-3"
+            >
+              <label
+                className="form-label text-secondary fw-bold"
+                htmlFor="email"
+              >
+                User ID : 
+              </label>
+              <input
+                className="form-control"
+                name="email"
+                onBlur={[Function]}
+                onChange={[Function]}
+                placeholder="Enter your email"
+                type="email"
+                value=""
+              />
+            </div>
+            <div
+              className="col-12 mb-3"
+            >
+              <label
+                className="form-label text-secondary fw-bold"
+                htmlFor="password"
+              >
+                Password : 
+              </label>
+              <input
+                className="form-control"
+                name="password"
+                onBlur={[Function]}
+                onChange={[Function]}
+                placeholder="Enter Password"
+                type="password"
+                value=""
+              />
+            </div>
+            <div
+              className="col-md-6 mb-3"
+            >
+              <label
+                className="form-label text-secondary fw-bold"
+                htmlFor="first"
+              >
+                First Name : 
+              </label>
+              <input
+                className="form-control"
+                name="first"
+                onBlur={[Function]}
+                onChange={[Function]}
+                placeholder="Enter your First Name"
+                type="text"
+                value=""
+              />
+            </div>
+            <div
+              className="col-md-6 mb-3"
+            >
+              <label
+                className="form-label text-secondary fw-bold"
+                htmlFor="last"
+              >
+                Last Name : 
+              </label>
+              <input
+                className="form-control"
+                name="last"
+                onBlur={[Function]}
+                onChange={[Function]}
+                placeholder="Enter your last name"
+                type="text"
+                value=""
+              />
+            </div>
+            <div
+              className="col-12 mb-3"
+            >
+              <label
+                className="form-label text-secondary fw-bold"
+                htmlFor="location"
+              >
+                Location : 
+              </label>
+              <input
+                className="form-control"
+                name="location"
+                onBlur={[Function]}
+                onChange={[Function]}
+                placeholder="Enter your Location"
+                type="text"
+                value=""
+              />
+            </div>
+            <div
+              className="col-12 mb-3"
+            >
+              <label
+                className="form-label text-secondary fw-bold"
+                htmlFor="mobile"
+              >
+                Mobile no : 
+              </label>
+              <input
+                className="form-control"
+                name="mobile"
+                onBlur={[Function]}
+                onChange={[Function]}
+                placeholder="Enter your mobile number"
+                type="text"
+                value=""
+              />
+            </div>
+            <div
+              className="col-12 text-center"
+            >
+              <button
+                className="form-control btn btn-secondary rounded-pill fw-bold"
+                type="submit"
+              >
+                Register
+              </button>
+              <div
+                className="Toastify"
+              />
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+`;

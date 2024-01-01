@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: #fcfcfc;
+  
+    
+  }
+  .Name {
+    font-size: 18px;
+
+    font-weight: bold;
+    border-color: white
+    ;
+  }
+  
+  .navbar {
+    height: 60px;
+    position: sticky;
+    width: 100%;
+    top: 0;
+    z-index: 2;
+  }
+  
+  .menu-icon {
+    display: none;
+  }
+  
+  .nav-elements ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+  }
+  
+  .nav-elements ul li:not(:last-child) {
+    margin-right: 60px;
+  }
+  
+  .nav-elements ul a {
+    font-size: 20px;
+    font-weight: bolder;
+    color: white;
+    text-decoration: none;
+    
+  }
+  
+  @media (max-width: 768px) {
+    .nav-elements ul li:not(:last-child) {
+      margin-right: 30px;
+    }
+  }
+  
+  @media (max-width: 600px) {
+    .menu-icon {
+      display: block;
+      cursor: pointer;
+    }
+  
+    .nav-elements {
+      position: absolute;
+      left: 0;
+      top: 60px;
+      background-color: gray;
+      width: 0px;
+      height: calc(100vh - 60px);
+      transition: 0.3s ease-in;
+      overflow :hidden;
+      z-index: 2;
+      
+    }
+  
+    .nav-elements.active {
+      width: 50%;
+    }
+  
+    .nav-elements ul {
+      display: flex;
+      flex-direction: column;
+    }
+  
+    .nav-elements ul li {
+      margin-right: unset;
+      margin-top: 22px;
+    }
+  }

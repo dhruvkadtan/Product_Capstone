@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Edit render correctly render correctly 1`] = `
+<div
+  className="container-xxl"
+>
+  <div
+    className="container"
+  >
+    <div
+      className="text-center mx-auto mb-5 mt-3"
+    >
+      <h3
+        className="text-secondary"
+      >
+        Edit Product
+      </h3>
+    </div>
+    <div
+      className="row justify-content-center"
+    >
+      <div
+        className="col-lg-8 "
+      />
+    </div>
+  </div>
+</div>
+`;

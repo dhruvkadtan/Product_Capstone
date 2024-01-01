@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render correctly 1`] = `
+Array [
+  <hr
+    className="react-reveal"
+    style={
+      Object {
+        "opacity": undefined,
+      }
+    }
+  />,
+  <div
+    className="react-reveal"
+    style={
+      Object {
+        "opacity": undefined,
+      }
+    }
+  >
+    <canvas
+      height={150}
+      role="img"
+      width={300}
+    />
+  </div>,
+  <h6
+    className="react-reveal text-center mt-1 Playfair"
+    style={
+      Object {
+        "opacity": undefined,
+      }
+    }
+  >
+    Top Viewed Product
+  </h6>,
+  <hr
+    className="react-reveal"
+    style={
+      Object {
+        "opacity": undefined,
+      }
+    }
+  />,
+]
+`;

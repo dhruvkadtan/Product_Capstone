@@ -1,0 +1,54 @@
+{
+    "products": [
+      {
+        "id": "9152072d-2dfe-4395-a603-2528362bf604",
+        "date": "15/2/2023, 11:13:43 am",
+        "productName": "V25",
+        "productDes": "A handy 8GB ram and 256GB Internal storage mobile",
+        "manufacturer": "Vivo",
+        "quantity": 4,
+        "price": "32999",
+        "vendor": "Dhruv",
+        "distributor": "Gajanan Ele",
+        "count": 13
+      },
+      {
+        "id": "9152072d-2dfe-4395-a603-2528362bf60e",
+        "date": "15/2/2023, 11:13:43 am",
+        "productName": "11 5G",
+        "productDes": "8GB Ram and 128GB Rom",
+        "manufacturer": "Oneplus",
+        "quantity": 4,
+        "price": "51999",
+        "vendor": "Dhruv",
+        "distributor": "Gajanan Ele",
+        "count": 12
+      },
+      {
+        "id": "9152072d-2dfe-4395-a603-2528362bf601",
+        "productName": "Reno 6",
+        "date": "15/2/2023, 11:13:43 am",
+        "productDes" :"A handy 8GB ram and 128GB Internal storage mobile",
+        "manufacturer" : "Oppo",
+        "price" : "29999",
+        "quantity" : 5,
+        "vendor": "Dhruv",
+        "distributor": "Gajanan Ele",
+        "count": 12
+    },
+    
+    {
+        "id": "9152072d-2dfe-4395-a603-2528362bf602",
+        "date": "15/2/2023, 11:13:43 am",
+        "productName": "Reno 7 pro",
+        "productDes" :"A handy 12GB ram and 256GB Internal storage mobile",
+        "manufacturer" : "Oppo",
+        "price" : "37999",
+        "quantity" : 7,
+        "vendor": "Dhruv",
+        "distributor": "Gajanan Ele",
+        "count": 12
+  
+    } 
+    ]
+  }
